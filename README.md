@@ -17,3 +17,5 @@ Link to pretrained checkpoint 7: [Checkpoint 7](https://drive.google.com/file/d/
 
 Rest everything is explained in the well curated notebook.
 Thanks a lot !
+
+![Output](https://github.com/dunnus/Neural-Style-Transer-Dashtoon-Task/blob/main/output.png)
